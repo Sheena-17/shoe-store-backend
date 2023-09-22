@@ -13,6 +13,7 @@
     "@strapi/plugin-i18n": "4.13.7",
     "@strapi/plugin-users-permissions": "4.13.7",
     "@strapi/strapi": "4.13.7",
+    "cloudinary": "^1.40.0",
     "esbuild": "^0.16.17",
     "pg": "8.8.0"
   },
